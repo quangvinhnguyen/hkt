@@ -1,0 +1,24 @@
+{
+  "name": "mylan",
+  "description": "",
+  "main": "bower.json",
+  "authors": [
+    "MinhTri1911 <huynh.ngoc.minh.tri@framgia.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bower"
+  ],
+  "homepage": "https://github.com/MinhTri1911/MYLAN",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
